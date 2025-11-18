@@ -20,6 +20,11 @@ The main goal of this project is to create a **beautiful and functional toy shop
 - Provides **real-time UI updates** and toast notifications.
 
 ---
+## 📸 Screenshot
+
+![Screenshot](./public/screenshot.png)
+
+---
 
 ## 🚀 Key Features
 
